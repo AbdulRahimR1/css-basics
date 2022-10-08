@@ -1,0 +1,27 @@
+header{ text-align: center; font-size:larger}
+main{text-align: center;font-size:small}
+footer{text-align: center;font-size:medium ; background-color: mediumturquoise}
+
+header{font-size: 30px; color: chartreuse; text-align: center;
+background-color: crimson; opacity: 0.5;}
+* {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Times, serif; text-align: center}
+
+body{background-image: url('immage.jpg')}
+#tyr{ color: cyan;/*same as cyan*/ ;}
+#loki{color: darkgoldenrod; font-size: 25px;}
+
+.para2{background-image: url('tiger.jpg');
+background-repeat: no-repeat;
+background-position-x: left;
+background-attachment: scroll;}
+
+
+
+
+/*ID selector*/
+#uno {color: cyan; 
+font-size: larger;
+font-style: italic;}
+
+#beta {font-size: medium;
+color: rebeccapurple;}

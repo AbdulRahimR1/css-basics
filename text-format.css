@@ -1,0 +1,29 @@
+div{border:7px rgb(37, 2, 25) solid;
+background: rgb(55, 55, 75);
+padding: 20px;}
+
+h1{text-align: center;
+color: aqua;
+text-transform:uppercase;
+text-shadow: 5px 5px 5px goldenrod, 4px 4px 4px rgb(228, 54, 54);}
+
+p{color: azure;
+font-style: italic;
+text-indent: 60px;
+text-align: justify;
+word-spacing: 3px;}
+
+a{text-decoration: none;
+color: cornsilk;}
+
+.div{border:6px rgb(15, 1, 1) solid;
+padding:20px;
+background: rgb(1, 1, 66);
+font-variant: small-caps;
+color: azure;}
+
+footer{text-align: center;
+font-size: 60px;}
+.play{color: black;}
+.xbox{color: green;}
+.youtube{color: red;}
